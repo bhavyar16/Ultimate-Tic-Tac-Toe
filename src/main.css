@@ -1,0 +1,93 @@
+
+dy {
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Comic Sans MS', Helvetica, sans-serif;
+}
+
+a:link {
+    color: red;
+    padding: 14px 25px;
+    text-align: center; 
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: green;
+}
+/* selected link */
+a:active {
+    color: blue;
+}
+
+h1 {
+ text-align: center;
+ font-size: 40px;
+}
+table {
+  margin-left:auto; 
+  margin-right:auto;
+  height: 30; 
+  width: 100px; 
+}
+
+td {
+  height: 30px;
+  width: 20px;
+  text-align: center;
+  font-size: 10px;
+  border: 1px solid #cccccc;
+}
+#board1 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+
+#board2 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+
+#board3 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+#board4 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+#board5 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+#board6 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+#board7 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+#board8 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+#board9 tr td:hover {
+  background: #e4e4e4;
+  cursor:pointer;
+}
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  float: left;
+}
